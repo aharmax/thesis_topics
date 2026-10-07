@@ -16,7 +16,7 @@ I am also always open for great ideas from students, for example, in areas of la
 - Reasoning-first training paradigms
 
 ## Educational applications of LLMs 
-- Conversational essay attribution (can we detect that you wrote this?)
+- Conversational essay attribution (a chatgbot interviews a student based on their own essay?)
 - Adversarial attacks on educational assessment (can we make [ACAbot](https://github.com/acabotics/ACA-bot-OPENUP-oer) leak the right answer?)
 
 ## Bioacoustics
