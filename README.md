@@ -17,7 +17,7 @@ I am also always open for great ideas from students, for example, in areas of la
 
 ### Educational applications of LLMs 
 - Conversational essay attribution (a chatbot interviews a student based on their own essay?)
-- Adversarial attacks on educational assessment (can you trick [ACAbot](https://github.com/acabotics/ACA-bot-OPENUP-oer) to leak out the right answer?)
+- Adversarial attacks on educational assessment (can you trick [ACAbot](https://github.com/acabotics/ACA-bot-OPENUP-oer) to leak the correct answer?)
 
 ### Bioacoustics
 - Statistical analysis, signal processing, and machine learning work towards estimation of the size of bird population. We have long audio recordings of about 300 species-groups of birds in various zoos, where the number of individuals and their genders are known. Can we count the individuals by sound only when we have one week of audio from the site?
