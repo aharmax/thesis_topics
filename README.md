@@ -3,7 +3,7 @@ I have worked on signal processing (especially audio, speech), machine learning 
 
 My current most active application areas are 
 - Analysis and optimization of large transformer models, see relevant papers [here](https://scholar.google.com/citations?hl=nl&user=ONX81n4AAAAJ&view_op=list_works&sortby=pubdate). 
-- Educational technology, especially use of conversational systems (text/speech) in education, see [various ACAbot projects](https://www.edudacs.nl/projects/67c19022748fbc62d93a576f). 
+- Educational technology, especially use of conversational systems (text/speech bots) in education, see [various ACAbot projects](https://www.edudacs.nl/projects/67c19022748fbc62d93a576f). 
 - Biodiversity monitoring, in particular, [Passive Acoustic Monitoring of populations of birds and other animals](https://ml4biodiversity.org).
 - A new emerging research area is the application of AI in sustainable agriculture. I have several activities in this domain with our colleagues at the [Brightlands Future of Farming Institute in Venlo.](https://www.brightlands.com/en/campus-greenport-venlo/expertises/future-farming). 
 
@@ -26,3 +26,4 @@ I am also always open for great ideas from students, for example, in areas of la
 - We have access to fully annotated recordings of Zebra Finches from a natural site in Australia, where the recordings have been annotated at the level of individual bird. Can we use this to build a model for individual recognition? 
 - We have a structured databased of more than three years of continuous audio recordings from an urban garden site, with a lot of birds. Can we recognize local v.s. visiting bird individuals. Can we detect that one bird user to sing there there but is no longer?
 - Elephants are known to communicate in infrasound (IS). We have a few weeks of IS recordings from a local zoo and we are ready to collect more such data, and use existing databases. Can we identify an individual elephant by it IS vocalization? Can we characterize the IS language of elephants by monitoring their rumble patterns over a long period?
+- Exploration on active biodiversity monitoring using an autonomous robotic platform that take the sensing where the animals/plants are. 
