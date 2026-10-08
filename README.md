@@ -1,5 +1,5 @@
 # Research areas
-I am Aki Härmä, a staff member at [DACS](https://www.maastrichtuniversity.nl/research/department-advanced-computing-sciences). I have worked in the past on signal processing (especially audio, speech), machine learning and natural language processing in various application to consumer electronics, and healthcare. My current most active application areas are: 
+I am [Aki Härmä](https://www.maastrichtuniversity.nl/harma), a staff member at [DACS](https://www.maastrichtuniversity.nl/research/department-advanced-computing-sciences). I have worked in the past on signal processing (especially audio, speech), machine learning and natural language processing in various application to consumer electronics, and healthcare. My current most active research inrterests are: 
 - Analysis and optimization of large transformer models, see relevant papers [here](https://scholar.google.com/citations?hl=nl&user=ONX81n4AAAAJ&view_op=list_works&sortby=pubdate). 
 - Educational technology, especially use of conversational systems (text/speech bots) in education, see [various ACAbot projects](https://www.edudacs.nl/projects/67c19022748fbc62d93a576f). 
 - Biodiversity monitoring, in particular, [Passive Acoustic Monitoring of populations of birds and other animals](https://ml4biodiversity.org).
