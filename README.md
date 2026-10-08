@@ -13,7 +13,7 @@ I am also always open for great ideas from students, for example, in areas of la
 - Mamba-transformers and other architectural developments in LLM core technology
 - Reasoning-first training paradigms and the inner workings of LLM reasoning
 - Computational optimization, compact on-edge models
-- Language agents and narrative representaton of knowledge
+- Language agents and narrative representations of knowledge
 
 ### Educational applications of LLMs 
 - Conversational essay attribution (a chatbot interviews a student based on their own essay?)
