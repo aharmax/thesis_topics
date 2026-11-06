@@ -14,6 +14,7 @@ I am also always open for great ideas from students, for example, in areas of la
 - Reasoning-first training paradigms and the inner workings of LLM reasoning
 - Computational optimization, compact on-edge models
 - Language agents and narrative representations of knowledge
+- Multilingual mind of the LLM: how linguistic control in LLMs differ from the human brain in language switching? 
 
 ### Educational applications of LLMs 
 - Conversational essay attribution (a chatbot interviews a student based on their own essay?)
